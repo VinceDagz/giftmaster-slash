@@ -29,7 +29,7 @@ module.exports = {
 			embed.addField('Premium Services', premiumStockInfo, true);
 		}
 
-		embed.addField('Useful Links', `[**Website**](${config.website}) [**Discord**](https://dsc.gg/sciencegear)`);
+		embed.addField('Useful Links', `[**Website**](${config.website}) [**Discord**](https://discord.gg/zrgUEtCHKx)`);
 
 		interaction.reply({ embeds: [embed] });
 	},
