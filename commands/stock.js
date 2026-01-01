@@ -29,7 +29,7 @@ module.exports = {
 			embed.addField('Premium Services', premiumStockInfo, true);
 		}
 
-		embed.addField('Useful Links', `[**Website**](${config.website}) [**Discord**](guns.lol/shadowgentokai)`);
+		embed.addField('Useful Links', `[**Website**](${config.website}) [**Discord**](${config.discord})`);
 
 		interaction.reply({ embeds: [embed] });
 	},
