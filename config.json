@@ -5,16 +5,16 @@
 
   "port": "3000",
   
-  "clientId": "00000000000000000",
-  "guildId": "0000000000000000000",
+  "clientId": "1163103158520795216",
+  "guildId": "1259174039981789236",
 
-  "status": "Made By ScienceGear 🔥",
-  "website": "https://youtube.com/ScienceGearYT",
-  "banner": "https://media.discordapp.net/attachments/960440723369517106/996423763522506782/rainbow-border.gif",
-  "footer": "Made By ScienceGear 🔥",
+  "status": "Tokai Teio Gen?",
+  "website": "https://discord.gg/g7tT8ySn",
+  "banner": "https://cdn.discordapp.com/attachments/1371527430853886005/1425482197497810964/standard.gif?ex=69572600&is=6955d480&hm=483aa8cd9cd0469cfc8f2583880fea641cb6191d8134e9fe53a323c45b7bcaa2",
+  "footer": "Powered by Tokai Teio | Shadow Gen",
 
-  "genChannel": "00000000000000000000",
-  "premiumChannel": "00000000000000000000",
+  "genChannel": "1371710129031872532",
+  "premiumChannel": "1371710146140704820",
   "genCooldown": "5",
   "premiumCooldown": "3",
 
