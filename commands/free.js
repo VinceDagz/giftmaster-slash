@@ -97,7 +97,7 @@ module.exports = {
                 member.send({ embeds: [embedMessage] })
                     .catch(error => console.error(`Error sending embed message: ${error}`));
                 interaction.reply({
-                    content: `**Check your DM ${member}!** __If you do not receive the message, please unlock your private!__`,
+                    content: `**Account Generated from Shadow Gen ${member}!** __If you couldn't receive the account, please allow DMs in your account!__`,
                 });
 
                 generated.add(member.id);
