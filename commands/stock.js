@@ -29,7 +29,7 @@ module.exports = {
 			embed.addField('Premium Services', premiumStockInfo, true);
 		}
 
-		embed.addField('Useful Links', `[**Website**](${config.website}) [**Discord**](${config.discord})`);
+		embed.addField('Useful Links', `[**Website**](${config.website}) [**Discord**](https://discord.gg/vZxpHyzDPB)`);
 
 		interaction.reply({ embeds: [embed] });
 	},
