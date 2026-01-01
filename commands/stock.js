@@ -29,7 +29,7 @@ module.exports = {
 			embed.addField('Premium Services', premiumStockInfo, true);
 		}
 
-		embed.addField('Useful Links', `[**Website**](${config.website})`);
+		embed.addField('About Stocks', `We use checkers in order to whatever we may upload to be valid hits, and such that when it doesn't work, probably the owner of the account has changed password their account`);
 
 		interaction.reply({ embeds: [embed] });
 	},
