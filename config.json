@@ -6,15 +6,15 @@
   "port": "3000",
   
   "clientId": "1163103158520795216",
-  "guildId": "1259174039981789236",
+  "guildId": "1179802589232119877",
 
   "status": "Tokai Teio Gen?",
   "website": "https://discord.gg/g7tT8ySn",
   "banner": "https://cdn.discordapp.com/attachments/1371527430853886005/1425482197497810964/standard.gif?ex=69572600&is=6955d480&hm=483aa8cd9cd0469cfc8f2583880fea641cb6191d8134e9fe53a323c45b7bcaa2",
   "footer": "Powered by Tokai Teio | Shadow Gen",
 
-  "genChannel": "1371710129031872532",
-  "premiumChannel": "1371710146140704820",
+  "genChannel": "1411742166686109747",
+  "premiumChannel": "1371527303816941589",
   "genCooldown": "5",
   "premiumCooldown": "3",
 
